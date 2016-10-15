@@ -1,1 +1,1 @@
-# wiki-app-automation
+# sample-appium-automation
